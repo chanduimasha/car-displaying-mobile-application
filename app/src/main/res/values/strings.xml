@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Home</string>
+    <string name="identify_the_car_make">Identify the Car Make</string>
+    <string name="hints">Hints</string>
+    <string name="identify_the_car_image">Identify the Car Image</string>
+    <string name="advanced_level">Advanced Level</string>
+    <string name="todo">TODO</string>
+    <string-array name="brands">
+        <item>Select car brand</item>
+        <item>Ford GT</item>
+        <item>Lamborghini</item>
+        <item>Benz</item>
+        <item>BMW</item>
+        <item>Bugatti</item>
+    </string-array>
+    <string name="make_Identify">Identify</string>
+    <string name="next_Button">Next</string>
+    <string name="correct_Message">CORRECT!</string>
+    <string name="wrong_Message">WRONG!</string>
+    <string name="correct_Ford_Gt">Correct answer is Ford GT</string>
+    <string name="correct_Benz">Correct answer is Benz</string>
+    <string name="correct_Bmw">Correct answer is BMW</string>
+    <string name="correct_Bugatti">Correct answer is Bugatti</string>
+    <string name="correct_Lamborghini">Correct answer is Lamborghini</string>
+</resources>
